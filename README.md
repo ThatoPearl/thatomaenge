@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Thato Pearl Maenge.
-- 👀 I’m interested in coding, application and AI development.
-- 🌱 I’m currently doing my bachelor degree in Computer Science and Software Engineering.
 - 📫 Reach me on the email: mthatopearl@gmail.com.
 
 <!---
